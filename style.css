@@ -1,0 +1,26 @@
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.nobullet {
+    list-style: none;
+}
+
+table {
+    border-spacing: 0;
+}
+
+.skill-table ul {
+    margin: 0;
+}
+
+.footer {
+    text-align: right;
+}
